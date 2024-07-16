@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32168aac23ba1cb46ba733e3ef5e6c98, type: 3}
+  m_Name: Wave 3
+  m_EditorClassIdentifier: 
+  enemyPrefabs:
+  - {fileID: 2729930412321886423, guid: 4c98ff444c0ed0a42a2dddfc9a05de24, type: 3}
+  - {fileID: 2729930412321886423, guid: 4c98ff444c0ed0a42a2dddfc9a05de24, type: 3}
+  - {fileID: 2729930412321886423, guid: 4c98ff444c0ed0a42a2dddfc9a05de24, type: 3}
+  - {fileID: 2729930412321886423, guid: 4c98ff444c0ed0a42a2dddfc9a05de24, type: 3}
+  - {fileID: 2729930412321886423, guid: 4c98ff444c0ed0a42a2dddfc9a05de24, type: 3}
+  - {fileID: 2729930412321886423, guid: 4c98ff444c0ed0a42a2dddfc9a05de24, type: 3}
+  - {fileID: 2729930412321886423, guid: 4c98ff444c0ed0a42a2dddfc9a05de24, type: 3}
+  - {fileID: 2729930412321886423, guid: 4c98ff444c0ed0a42a2dddfc9a05de24, type: 3}
+  - {fileID: 2729930412321886423, guid: 4c98ff444c0ed0a42a2dddfc9a05de24, type: 3}
+  - {fileID: 2729930412321886423, guid: 4c98ff444c0ed0a42a2dddfc9a05de24, type: 3}
+  - {fileID: 2729930412321886423, guid: 4c98ff444c0ed0a42a2dddfc9a05de24, type: 3}
+  - {fileID: 2729930412321886423, guid: 4c98ff444c0ed0a42a2dddfc9a05de24, type: 3}
+  - {fileID: 2729930412321886423, guid: 4c98ff444c0ed0a42a2dddfc9a05de24, type: 3}
+  - {fileID: 2729930412321886423, guid: 4c98ff444c0ed0a42a2dddfc9a05de24, type: 3}
+  - {fileID: 2729930412321886423, guid: 4c98ff444c0ed0a42a2dddfc9a05de24, type: 3}
+  - {fileID: 2729930412321886423, guid: 4c98ff444c0ed0a42a2dddfc9a05de24, type: 3}
+  - {fileID: 2729930412321886423, guid: 4c98ff444c0ed0a42a2dddfc9a05de24, type: 3}
+  - {fileID: 2729930412321886423, guid: 4c98ff444c0ed0a42a2dddfc9a05de24, type: 3}
+  - {fileID: 2729930412321886423, guid: 4c98ff444c0ed0a42a2dddfc9a05de24, type: 3}
+  - {fileID: 2729930412321886423, guid: 4c98ff444c0ed0a42a2dddfc9a05de24, type: 3}
+  - {fileID: 2729930412321886423, guid: 4c98ff444c0ed0a42a2dddfc9a05de24, type: 3}
+  - {fileID: 2729930412321886423, guid: 4c98ff444c0ed0a42a2dddfc9a05de24, type: 3}
+  pathPrefab: {fileID: 7227796687290392973, guid: 97a9bdb7c78b02647b0b67d3bb5671fe, type: 3}
+  moveSpeed: 5
+  timeBetweenEnemySpawns: 0.3
+  spawnTimeVariance: 0
+  minSpawnTime: 0.2

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32168aac23ba1cb46ba733e3ef5e6c98, type: 3}
+  m_Name: HE-PU-Right
+  m_EditorClassIdentifier: 
+  enemyPrefabs:
+  - {fileID: 8976662084805978301, guid: 5de26a4abaea2274d9365a1b3446b144, type: 3}
+  pathPrefab: {fileID: 8468742944728743944, guid: 8d5ede0ce53f27945b8bcee96e3423e1, type: 3}
+  moveSpeed: 4
+  timeBetweenEnemySpawns: 1
+  spawnTimeVariance: 0
+  minSpawnTime: 0.2
